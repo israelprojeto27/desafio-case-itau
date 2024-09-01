@@ -1,6 +1,6 @@
-package com.br.app;
+package com.br.app.controllers;
 
-import com.br.app.domain.exception.SenhaException;
+import com.br.app.builders.InputSenhaBuilder;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import org.junit.jupiter.api.Assertions;

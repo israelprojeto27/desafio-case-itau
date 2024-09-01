@@ -1,4 +1,4 @@
-package com.br.app;
+package com.br.app.builders;
 
 import com.br.app.application.dto.InputSenhaDTO;
 

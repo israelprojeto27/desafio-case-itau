@@ -1,4 +1,4 @@
-package com.br.app;
+package com.br.app.usecase;
 
 import com.br.app.application.dto.InputSenhaDTO;
 import com.br.app.application.usecase.SenhaUseCase;
