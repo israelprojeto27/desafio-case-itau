@@ -24,7 +24,6 @@ E esta API deverá emitir apenas uma resposta booleana 'true' ou 'false' conside
 * Iniciando ...
 * Endpoints
 * Swagger
-* Teste Interface API Web
 * Autor
 
 ## Artefato Repositorio
