@@ -1,6 +1,4 @@
-package com.br.app.application.validator;
-
-import com.br.app.application.validator.RegraValidacao;
+package com.br.app.domain.validator;
 
 // Valida se a senha contém ao menos um caractere especial
 class CaractereEspecialRegra implements RegraValidacao {

@@ -1,4 +1,4 @@
-package com.br.app.application.validator;
+package com.br.app.domain.validator;
 
 
 

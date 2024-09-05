@@ -1,6 +1,4 @@
-package com.br.app.application.validator;
-
-import com.br.app.application.validator.RegraValidacao;
+package com.br.app.domain.validator;
 
 import java.util.HashSet;
 import java.util.Set;

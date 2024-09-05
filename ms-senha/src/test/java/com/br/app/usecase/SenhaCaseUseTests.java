@@ -2,13 +2,12 @@ package com.br.app.usecase;
 
 import com.br.app.application.dto.InputSenhaDTO;
 import com.br.app.application.usecase.SenhaUseCase;
-import com.br.app.application.validator.SenhaValidator;
+import com.br.app.domain.validator.SenhaValidator;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.http.HttpStatus;
 
 @SpringBootTest
 public class SenhaCaseUseTests {
